@@ -52,7 +52,7 @@ Mediscoop is a feature-rich **Hospital Management System** built with HTML, CSS,
 ## 🏗 Project Setup  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-github-username/Mediscoop.git
+   git clone https://github.com/eranmadhuka/Mediscoop.git
 
 2. Navigate to the db folder and import the SQL file into your MySQL server
      File path: db/mediscoop.sql
