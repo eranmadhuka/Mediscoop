@@ -2,6 +2,9 @@
 
 Mediscoop is a feature-rich **Hospital Management System** built with HTML, CSS, JavaScript, Java, and MySQL. This system facilitates efficient management of hospital operations, allowing **patients**, **doctors**, and **administrators** to interact seamlessly through personalized dashboards.
 
+
+https://github.com/eranmadhuka/Mediscoop/blob/418900ed5ccfc46aa22047cabf0c43cdcd21794e/screenshot2.png
+
 ---
 
 ## 🌟 Features  
@@ -60,9 +63,4 @@ Mediscoop is a feature-rich **Hospital Management System** built with HTML, CSS,
 3. Configure the database connection in the project files.
 4. Deploy the project on a Tomcat server.
 5. Access the application using the URLs provided above.
-
-
-## 📸 Screenshots
-### 🔐 Admin Dashboard  
-![Admin Dashboard](/screenshot2d.png)  
 
