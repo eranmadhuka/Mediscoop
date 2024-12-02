@@ -63,4 +63,5 @@ Mediscoop is a feature-rich **Hospital Management System** built with HTML, CSS,
 
 
 ## 📸 Screenshots
+![Uploading screencapture-localhost-8099-Mediscoop-index-jsp-2024-12-02-23_42_32.png…]()
 
