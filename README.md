@@ -60,3 +60,7 @@ Mediscoop is a feature-rich **Hospital Management System** built with HTML, CSS,
 3. Configure the database connection in the project files.
 4. Deploy the project on a Tomcat server.
 5. Access the application using the URLs provided above.
+
+
+## 📸 Screenshots
+
