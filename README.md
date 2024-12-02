@@ -19,10 +19,10 @@ Mediscoop is a feature-rich **Hospital Management System** built with HTML, CSS,
 - **View appointments** assigned to them.  
 
 ### 🔐 Admin  
-- **CRUD Patients**: Add, update, delete, and view patient information.  
-- **CRUD Doctors**: Manage doctor details.  
-- **CRUD Specializations**: Maintain doctor specialization categories.  
-- **View appointments**: Access a comprehensive list of all appointments.  
+- **Patient Management**: Add, update, remove, and review detailed patient records efficiently.  
+- **Doctor Management**: Oversee doctor profiles, update credentials, and maintain accurate information.  
+- **Specialization Management**: Define, organize, and edit specialization categories for seamless doctor-patient alignment.
+- **Appointment Oversight**: Access and monitor all scheduled appointments for comprehensive system oversight.
 
 ---
 
