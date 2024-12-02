@@ -1,0 +1,2 @@
+# Mediscoop
+Hospital Management System
