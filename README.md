@@ -26,17 +26,17 @@ Mediscoop is a feature-rich **Hospital Management System** built with HTML, CSS,
 ## 🚀 How to Access  
 
 ### 🛠 Admin Login  
-- **URL**: [Admin Login](http://localhost:8099/Mediscoop/admin/admin-login.jsp)  
+- **URL**: [Admin Login](/Mediscoop/admin/admin-login.jsp)  
 - **Username**: `admin`  
 - **Password**: `admin`  
 
 ### 👨‍⚕️ Doctor Login  
-- **URL**: [Doctor Login](http://localhost:8099/Mediscoop/doctor/doctor-login.jsp)  
+- **URL**: [Doctor Login](/Mediscoop/doctor/doctor-login.jsp)  
 - **Username**: `doc1`  
 - **Password**: `doc1`  
 
 ### 🧑‍💻 Patient Login  
-- **URL**: [Patient Login](http://localhost:8099/Mediscoop/login.jsp)  
+- **URL**: [Patient Login](9/Mediscoop/login.jsp)  
 - **Username**: `patient1`  
 - **Password**: `patient1`  
 
@@ -52,4 +52,11 @@ Mediscoop is a feature-rich **Hospital Management System** built with HTML, CSS,
 ## 🏗 Project Setup  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-github-username/Mediscoop.git  
+   git clone https://github.com/your-github-username/Mediscoop.git
+
+2. Navigate to the db folder and import the SQL file into your MySQL server
+     File path: db/mediscoop.sql
+   
+3. Configure the database connection in the project files.
+4. Deploy the project on a Tomcat server.
+5. Access the application using the URLs provided above.
